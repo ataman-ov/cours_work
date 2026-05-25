@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SituationCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4978024f322514b7532598ce7120c2ef122d07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9ba9deeca9a1c7bba2c75cc1ba4202acf8f967")]
 [assembly: System.Reflection.AssemblyProductAttribute("SituationCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SituationCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

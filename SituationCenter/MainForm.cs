@@ -6,7 +6,7 @@ namespace SituationCenter;
 
 public sealed class MainForm : Form
 {
-    private const int SensorPollingSeconds = 10;
+    private const int SensorPollingSeconds = 40;
 
     private readonly IDataStore _fileDatabase;
     private readonly ISensor _sensor = new VirtualSensor();
