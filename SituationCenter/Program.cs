@@ -1,13 +1,5 @@
 using System.Windows.Forms;
+using SituationCenter;
 
-namespace SituationCenter;
-
-internal static class Program
-{
-    [STAThread]
-    private static void Main()
-    {
-        ApplicationConfiguration.Initialize();
-        Application.Run(new MainForm());
-    }
-}
+ApplicationConfiguration.Initialize();
+Application.Run(new MainForm());

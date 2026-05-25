@@ -1,6 +1,6 @@
 namespace SituationCenter;
 
-public sealed class VirtualSensor
+public sealed class VirtualSensor : ISensor
 {
     private readonly Random _random = new();
 

@@ -4,7 +4,7 @@ using System.Text.Unicode;
 
 namespace SituationCenter;
 
-public sealed class FileDatabase
+public sealed class FileDatabase : IDataStore
 {
     private readonly string _path;
     private readonly JsonSerializerOptions _jsonOptions = new()
@@ -29,7 +29,15 @@ public sealed class FileDatabase
         }
 
         var json = File.ReadAllText(_path);
-        return JsonSerializer.Deserialize<SituationCenterDatabase>(json, _jsonOptions) ?? CreateInitialDatabase();
+        var database = JsonSerializer.Deserialize<SituationCenterDatabase>(json, _jsonOptions)
+            ?? CreateInitialDatabase();
+
+        if (database.Employees.Count == 0)
+        {
+            database.Employees = CreateInitialDatabase().Employees;
+        }
+
+        return database;
     }
 
     public void Save(SituationCenterDatabase database)

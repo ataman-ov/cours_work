@@ -1,0 +1,16 @@
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\data\situation-center-db.json
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.AssemblyInfoInputs.cache
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.AssemblyInfo.cs
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.csproj.CoreCompileInputs.cache
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.sourcelink.json
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.dll
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\refint\SituationCenter.dll
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.pdb
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\SituationCenter.deps.json
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\SituationCenter.runtimeconfig.json
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\SituationCenter.dll
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\SituationCenter.pdb
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\SituationCenter.genruntimeconfig.cache
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\obj\Debug\net8.0-windows\ref\SituationCenter.dll
+C:\Users\atama\OneDrive\Документы\ИВТ-1курс\информатика\АтаманвоМО-ИВТ-ЗО-1\cours_work\SituationCenter\bin\Debug\net8.0-windows\SituationCenter.exe
